@@ -1,0 +1,66 @@
+.videotitle{
+        
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 27px;
+    width: 500px;
+    margin-bottom: 5px;
+    }
+    
+    .views{
+    
+    
+        font-family: Arial;
+        font-size: 14px;
+        color: rgb(45, 43, 43);
+     
+    margin-top: 0;
+    } 
+    
+    .author{
+    
+        font-family: Arial;
+        font-size: 19px;
+        color: rgb(45, 43, 43);
+        margin-top: 9px;
+    
+    
+    
+    }
+    
+    .info{
+    
+    font-family: arial;
+    width: 290px;
+    font-size: 19px;
+    color: rgb(45, 43, 43);
+    line-height: 17px;
+    
+    
+    
+    
+    }
+    
+    .subscribe{
+    
+        margin-top: 50px;
+        font-family: arial;
+        text-align: center;
+        font-size: 20px;
+        background-color: red;
+        color: white;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 5px;
+    padding-right: 5px;
+    }
+    
+
+    
+    .youtube:hover{
+    
+        text-decoration: underline;
+        cursor: pointer;
+    
+    }
